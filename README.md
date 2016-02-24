@@ -1,13 +1,14 @@
 ## README.md  Syntex 
 
-> `> Qoute Style`
+>`> Qoute Style`  
 Qoute Style  
 
 <br/>
 `> 1. Order List 1`  
 1. Order List First  
 2. Second  
-3. Third  
+3. Third 
+ 1. inner list
 
 
 <br/>
