@@ -24,7 +24,7 @@
 Correct Link **[google.com](https://www.google.com)**  
 
 <br/>
->`~~Wring link [https://www.google.com](www.google.com)~~`  
+>`~~Wrong link [https://www.google.com](www.google.com)~~`  
 ~~Wrong link [https://www.google.com](www.google.com)~~  
 
 <br/>
