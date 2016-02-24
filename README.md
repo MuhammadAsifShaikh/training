@@ -28,8 +28,8 @@ Correct Link **[google.com](https://www.google.com)**
 ~~Wrong link [https://www.google.com](www.google.com)~~  
 
 <br/>
-`__Bold__`   
->__Bold__  
+>`__Bold__`   
+__Bold__  
 
 <br/>
 >`*italic*`  
