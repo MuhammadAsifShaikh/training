@@ -3,7 +3,7 @@
 `> Qoute Style`
 > Qoute Style
 
-`> Qoute Style`  
+`> 1. Oder List 1`  
 1. Oder List 1
  1. first
  2. Second
@@ -16,16 +16,12 @@
 
 
 
-Visit This Link **[google.com](https://www.google.com)**
+`Correct Link **[google.com](https://www.google.com)**`
+Correct Link **[google.com](https://www.google.com)**  
+`~~Wring link [https://www.google.com](www.google.com)~~`
+~~Wring link [https://www.google.com](www.google.com)~~
 
-~~DO not visit here [https://www.google.com](www.google.com)~~
-
-` Cod style `
-
-__Bold__
-
-*italic*
-
-**Bold**
-
-~~Strike~~
+`__Bold__`__Bold__  
+`*italic*`*italic*  
+`**Bold**`**Bold**  
+`~~Strike~~`~~Strike~~
