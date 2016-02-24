@@ -1,8 +1,9 @@
-# Repsitory Details:
-## README.md test
+## .md write Syntex 
 
-> Here i Used Some .md basic command
+`> Qoute Style`
+> Qoute Style
 
+`> Qoute Style`
 1. Oder List 1
  1. first
  2. Second
