@@ -36,8 +36,8 @@
 >*italic*  
 
 <br/>
-`**Bold**`  
->**Bold** 
+>`**Bold**`  
+**Bold** 
 
 <br/>
 `~~Strike~~`  
