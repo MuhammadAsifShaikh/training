@@ -1,13 +1,21 @@
 >`# Heading One`  
-Heading One  
+#Heading One  
 </br>
 >`## Heading Two`  
-Heading Two  
+##Heading Two  
 </br>
->`### Heading Three`
->`#### Heading Four`
->`##### Heading Five`
->`###### Heading Six`
+>`### Heading Three`  
+### Heading Three  
+</br>
+>`#### Heading Four`  
+#### Heading Four  
+</br>
+>`##### Heading Five`  
+##### Heading Five  
+</br>
+>`###### Heading Six`  
+###### Heading Six  
+</br>
 
 
 `## README.md  Syntex `  
