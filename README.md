@@ -27,7 +27,11 @@
 `~~Wring link [https://www.google.com](www.google.com)~~`
 >~~Wrong link [https://www.google.com](www.google.com)~~
 
-`__Bold__` >__Bold__  
-`*italic*` >*italic*  
-`**Bold**` >**Bold**  
-`~~Strike~~` >~~Strike~~
+`__Bold__`   
+>__Bold__  
+`*italic*`  
+>*italic*  
+`**Bold**`  
+>**Bold**  
+`~~Strike~~`  
+>~~Strike~~
