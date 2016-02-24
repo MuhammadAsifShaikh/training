@@ -1,23 +1,18 @@
-## .md write Syntex 
+## README.md  Syntex 
 
-`> Qoute Style`
-> Qoute Style
+> `> Qoute Style`
+Qoute Style  
+
+<br/>
+`> 1. Order List 1`  
+1. Order List First  
+2. Second  
+3. Third  
 
 
-
-`> 1. Oder List 1`  
-1. Oder List 1  
- 
-
- 1. first
- 2. Second
-   * third
-
-* unorder
- * sub unorder1
-  * sub unorder2
-  * sub unorder3
-
+<br/>
+>`* unorder`  
+* unorder1
 
 
 >`Correct Link **[google.com](https://www.google.com)**`  
