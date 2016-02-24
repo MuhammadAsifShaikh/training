@@ -22,18 +22,23 @@
 
 `Correct Link **[google.com](https://www.google.com)**`
 >Correct Link **[google.com](https://www.google.com)**  
+
 <br/>
 `~~Wring link [https://www.google.com](www.google.com)~~`
 >~~Wrong link [https://www.google.com](www.google.com)~~  
+
 <br/>
 `__Bold__`   
 >__Bold__  
+
 <br/>
 `*italic*`  
 >*italic*  
+
 <br/>
 `**Bold**`  
 >**Bold** 
+
 <br/>
 `~~Strike~~`  
 >~~Strike~~  
