@@ -8,8 +8,6 @@ Qoute Style
 1. Order List First  
 2. Second  
 3. Third  
-
-<br/>
  `1. inner list`
  1. inner list  
 
