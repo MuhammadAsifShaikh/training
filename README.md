@@ -16,7 +16,7 @@
 
 
 
-Visit This Link **[https://www.google.com](google.com)**
+Visit This Link **[google.com](https://www.google.com)**
 
 ~~DO not visit here [https://www.google.com](www.google.com)~~
 
