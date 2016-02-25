@@ -69,5 +69,9 @@ full with background
 ```  
 <br/>
 
-- [x] Done
+- [x] Done  
+- [ ] Reamin content
+- [x] Home Done  
+
+
 @MuhammadAsifShaikh :+1:
