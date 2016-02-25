@@ -65,9 +65,7 @@ __Bold__
 
 >
 ```
-```
 full with background
-```
 ```  
 <br/>
 
